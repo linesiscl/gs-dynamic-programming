@@ -14,3 +14,6 @@
   </li>
 </ol>
 
+<h3>Integrantes</h3>
+<p>Aline Fernandes Zeppelini - RM97966</p>
+<p>Julia Leite Galvão - RM550201</p>
