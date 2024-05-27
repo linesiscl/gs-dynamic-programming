@@ -24,5 +24,6 @@
   <li>Bertsekas, Dimitri P. Dynamic Programming and Optimal Control. Athena Scientific, 1995.</li>
   <li>Smith, John et al. "A review of monitoring technologies for marine environments." Marine Pollution Bulletin, vol. 50, no. 10, 2020, pp. 100-123. Elsevier.</li>
   <li>Chen, Zhiqiang, et al. "A survey on marine pollution monitoring based on wireless sensor networks." Sensors, vol. 13, no. 10, 2013, pp. 12862-12884.</li>
+  <li>SWEIGART, Al. Capítulo 6 - Guess the Number. Invent with Python. Disponível em: https://inventwithpython.com/invent4thed/chapter6.html. Acesso em: 27 maio 2024.</li>
 </ul>
 
