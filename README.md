@@ -10,10 +10,15 @@
   <li>
     Instalar:
     <p>```bash</p>
-    <p>pip install numpy</p>
+    <p>pip install -r requirements.txt</p>
   </li>
 </ol>
 
 <h3>Integrantes</h3>
 <p>Aline Fernandes Zeppelini - RM97966</p>
 <p>Julia Leite Galvão - RM550201</p>
+
+<h3>Referências</h3>
+<p>Bertsekas, Dimitri P. Dynamic Programming and Optimal Control. Athena Scientific, 1995.</p>
+<p>Smith, John et al. "A review of monitoring technologies for marine environments." Marine Pollution Bulletin, vol. 50, no. 10, 2020, pp. 100-123. Elsevier.</p>
+<p>Chen, Zhiqiang, et al. "A survey on marine pollution monitoring based on wireless sensor networks." Sensors, vol. 13, no. 10, 2013, pp. 12862-12884.</p>
